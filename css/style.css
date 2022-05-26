@@ -7,7 +7,10 @@ body {
     color: #324e63;
     background: url("https://i.pinimg.com/originals/09/ed/f5/09edf51d237c39952a1b959e884e6dbb.gif");
     background-size: cover;
-  }
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
 .wrapper{
     width: 100%;
     min-height: 100vh;
