@@ -5,13 +5,13 @@
 }
 body {
     color: #324e63;
+    background: url("https://i.pinimg.com/originals/09/ed/f5/09edf51d237c39952a1b959e884e6dbb.gif");
+    background-size: cover;
   }
 .wrapper{
     width: 100%;
     min-height: 100vh;
     display: flex;
-    background: url("https://i.pinimg.com/originals/09/ed/f5/09edf51d237c39952a1b959e884e6dbb.gif");
-    background-size: cover;
 }
 .profile-card{
     width: 500px;
