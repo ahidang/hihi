@@ -25,7 +25,7 @@ body {
     margin: auto;
     box-shadow: 0px 8px 60px -10px rgb(153 153 153 / 69%);
     border-radius: 50%;
-    background: url(https://i.pinimg.com/564x/7b/2a/eb/7b2aeb0….jpg);
+    background: url("https://i.pinimg.com/564x/7b/2a/eb/7b2aeb0a92d599322541b39ec6e087a0.jpg");
     border-radius: 50%;
     animation: xoayvong 9s cubic-bezier(0, 0, 0, 0) 0s infinite;
 }
